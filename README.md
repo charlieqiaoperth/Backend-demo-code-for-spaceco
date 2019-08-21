@@ -2,7 +2,7 @@
 # Restful: Swagger UI: https://handyman-cms.herokuapp.com/api-docs/#/
 
 
-You need to add a `env.json` file to your root directory, with the following content to do test or operator the API with swagger ui.
+You need to add a `env.json` file to your root directory, with the following content to do test or operate the API with swagger ui.
 ```
 {
   "default": {
