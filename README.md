@@ -15,6 +15,7 @@ backend running at [http://localhost:4500](http://localhost:4500).
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### production envirement:
-backend already hosting at heroku
+#### backend already hosting at heroku
+#### frontend:url:at [http://demo-drilholes-app.s3-website-ap-southeast-2.amazonaws.com](http://demo-drilholes-app.s3-website-ap-southeast-2.amazonaws.com)
 
 
