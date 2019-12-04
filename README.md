@@ -1,6 +1,7 @@
 #  Demo for Jacke'slab
 #  Frontend: react,readux,sass,html,JavaScript
 #  Restful backend: express.js,mongoose,mongoDb
+#  IDE:vs code
 
 ## Running:
 ### development envirement:
