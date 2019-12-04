@@ -6,7 +6,7 @@
 ## Running:
 ### development envirement:
 #### backend: `npm run dev `
-Runs the app in the development mode.<br>
+Runs the server in the development mode.<br>
 backend running at [http://localhost:4500](http://localhost:4500).
 #### frontend: `npm start`
 Runs the app in the development mode.<br>
