@@ -4,6 +4,8 @@
 #  IDE:vs code
 
 ## Running:
+#### username:test
+#### password:test
 ### development envirement:
 #### backend: `npm run dev `
 Runs the server in the development mode.<br>
