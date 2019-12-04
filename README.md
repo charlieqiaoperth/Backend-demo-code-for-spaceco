@@ -1,7 +1,7 @@
 #  Demo for Jacke'slab
-#  Frontend: react,readux,sass,html,JavaScript
-#  Restful backend: express.js,mongoose,mongoDb
-#  IDE:vs code
+#  Frontend: React,Readux,Sass,Html,JavaScript
+#  Restful Backend: Express.js,Mongoose,MongoDB
+#  IDE:Vs code
 
 ## Running:
 ### Login:
@@ -21,6 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## Jest and Supertest
 ### backend: `npm test`
 ## comments:
-### For demo, has not add test files for frontend test, this is similarity for functional test with backend. If need end to end test, I need to import new test tools to do.
-### For Database: For test easy, I disconnect the database, but if need it , I can supply .env configuration files. So can't do test for signup new user without database.
+### For test, has not add test files for frontend test, this is similar for functional test with backend. If need end to end test, I need to import new test tools.
+### For Database: I disconnect the database, but if need it , I can supply .env configuration files. So can't do demonstrate for signup new user without database.
 
