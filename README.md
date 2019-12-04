@@ -5,7 +5,7 @@
 
 ## Running:
 ### Login:
-#### username:test
+#### name:test
 #### password:test
 ### development envirement:
 #### backend: `npm run dev `
@@ -16,6 +16,12 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### production envirement:
 #### backend already hosting at heroku
-#### frontend:url:at [http://demo-drilholes-app.s3-website-ap-southeast-2.amazonaws.com](http://demo-drilholes-app.s3-website-ap-southeast-2.amazonaws.com)
-
+#### frontend:url:[http://demo-drilholes-app.s3-website-ap-southeast-2.amazonaws.com](http://demo-drilholes-app.s3-website-ap-southeast-2.amazonaws.com)
+## Testing:
+## Jest and Supertest
+### backend: `npm test`
+## comments:
+### For demo, has not add test files for frontend test, this is similarity for functional test with backend. If need end to end test, I need to import new test tools to do.
+### For Database: For test easy, I disconnect the database, but if need it , I can supply .env configuration files. So can't do test for 
+signup new user without database.
 
