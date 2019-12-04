@@ -1,23 +1,16 @@
-# CMS-handyman-server Demo for Navitas
-# Restful: Swagger UI: https://handyman-cms.herokuapp.com/api-docs/#/
+#  Demo for Jacke'slab
+#  Frontend: react,readux,sass,html,JavaScript
+#  Restful backend: express.js,mongoose,mongoDb,url: https://demo-drillholes-backend.herokuapp.com/v1/
+
+## Running:
+### development envirement:
+backend: npm run dev 
+Runs the app in the development mode.<br>
+backend running at [http://localhost:4500](http://localhost:4500).
+frontend: npm start
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### production envirement:
+backend already hosting at heroku
 
 
-You need to add a `env.json` file to your root directory, with the following content to do test or operate the API with swagger ui.
-```
-{
-  "default": {
-    "DB_HOST": "127.0.0.1",
-    "DB_DATABASE": "handy-demo",
-    "DB_PORT": 27017,
-    "JWT_KEY": "hello",
-  },
-  "test": {
-    "DB_DATABASE": "handy-demo_test",
-    "PORT": 
-  },
-  "MongoDB atlas": {
-    "DB_HOST": "your host",
-    "DB_PASSWORD": "your password",
-    "DB_USER": "your username"
-  }
-}
