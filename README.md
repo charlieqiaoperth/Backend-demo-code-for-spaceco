@@ -1,6 +1,6 @@
 #  Demo for Jacke'slab
 #  Frontend: react,readux,sass,html,JavaScript
-#  Restful backend: express.js,mongoose,mongoDb,url: https://demo-drillholes-backend.herokuapp.com/v1/
+#  Restful backend: express.js,mongoose,mongoDb
 
 ## Running:
 ### development envirement:
