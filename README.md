@@ -1,4 +1,4 @@
-#  Demo for Jacke'slab
+#  Demo for Jacke's lab
 #  Frontend: React,Readux,Sass,Html,JavaScript
 #  Restful Backend: Express.js,Mongoose,MongoDB
 #  IDE:Vs code
